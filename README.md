@@ -7,10 +7,16 @@ Commit Date: 26th October 2021
 
 ## Guide
 
-xx
+WOeking with javascript array methods4
+
+![image](https://user-images.githubusercontent.com/25634451/139131376-f6266fd8-ceed-4380-9668-d396950ad84b.png)
+
 
 <!-- elements -->
-    xx
+    * filter 
+    * map 
+    * sort 
+    * reduce 
 <!-- elements -->
 
 
@@ -19,8 +25,8 @@ xx
 xx
  
 ## Useful links
-* [Digital clock](https://www.w3schools.com/js/tryit.asp?filename=tryjs_timing_clock) 
-* [Gradient Generator with alpha](https://angrytools.com/gradient/) 
+* [The JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) 
+* [The JavaScript Array Handbook](https://www.freecodecamp.org/news/the-javascript-array-handbook/) 
 
 
 <!-- guide  https://github.com/nitishdayal/JavaScript30 -->
