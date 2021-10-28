@@ -12,10 +12,23 @@ Javascript array methods are arrays forming a data structure containing list of 
 ![image](https://user-images.githubusercontent.com/25634451/139131376-f6266fd8-ceed-4380-9668-d396950ad84b.png)
 
 <!-- elements -->
-    JavaScript array manipulation is made easier when we use array methods and ensureing the code cleaner.
+# long version
+    const ordered = inventors.sort(function(a,b){
+        if(a.year > b.year) {
+              return 1;
+       } else {
+        return -1;
+       }
+    });    
+    console.table(ordered);
 <!-- elements -->
-
-
+<!-- elements -->
+**#short verson**
+  //ternary version of the above
+    const ordered = inventors.sort((a,b) => a.year > b.year ? 1 : -1);
+    console.table(ordered);
+<!-- elements -->    
+    
 ## Approach
 
 xx
