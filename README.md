@@ -23,8 +23,7 @@ Javascript array methods are arrays forming a data structure containing list of 
     console.table(ordered);
 <!-- elements -->
 <!-- elements -->
-###short verson or ternary version of the above code 
-
+### short verson or ternary version of the above code 
     const ordered = inventors.sort((a,b) => a.year > b.year ? 1 : -1);
     console.table(ordered);
 <!-- elements -->    
