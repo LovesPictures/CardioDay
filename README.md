@@ -30,7 +30,7 @@ Javascript array methods are arrays forming a data structure containing list of 
     
 ## Approach
 
-xx
+To use arrays to sortcut operations
  
 ## Useful links
 * [The JavaScript Array](https://developer.mozilla.org/en-US/docs/Web/JavaScript/Reference/Global_Objects/Array) 
