@@ -39,8 +39,8 @@ To use arrays to sortcut operations
 
 
 <!-- list of questions -->
- // functional programming
-<!-- using inline es6
+<!--  // functional programming
+using inline es6
 what are an arrow functions - inline
 what is a ternary operator - is a shorthand if statement 
 waht is a DOM element 
